@@ -40,7 +40,7 @@
         <div class="max-width">
             <div class="home-content">
                 <div class="text-1">Hi, Iam </div>
-                <div class="text-2">Dheeraj</div>
+                <div class="text-2">Jagannadh</div>
                 <div class="text-3">And I'm a <span class="typing"></span></div>
                 <a href="#">Hire me</a>
             </div>
@@ -53,17 +53,17 @@
             <h2 class="title">About me</h2>
             <div class="about-content">
                 <div class="column left">
-                    <img src="dheeraj image.jpeg" alt="">
+                    <img src="Jagannadh image.jpeg" alt="">
                 </div>
                 <div class="column right">
-                    <div class="text">I'm Dheeraj and I'm a <span class="typing-2"></span></div>
+                    <div class="text">I'm Jagannadh and I'm a <span class="typing-2"></span></div>
                     <p> First of all, thank you for giving me this opportunity to introduce myself.
 
-                        I am Dheeraj from Andhra pradesh.
+                        I am Jagannadh from Andhra pradesh.
                         
-                        Currently, I am pursuing B.TECH in Computer Science Engineering from Gitam insitute of Technology and Sciences, Karnataka.
+                        Currently, I am pursuing B.TECH in Electronics and Communication Engineering from Godavari insitute of Engineering and Technology,Andhra Pradesh.
                         
-                        I have completed my schooling at Sri chaitanya Techno School, Kurnool with 9.2 percentile in 10th and 8.7 percentile in 12th.
+                        I have completed my schooling at Annapurna High School, Mandapeta with 10.0 percentile in 10th and 7.9 percentile in 12th.
                         
                         Well, my skills are HTML, CSS, C, and C++ and I like to keep on learning new technologies.
                         
@@ -85,11 +85,11 @@
                     <div class="text">My creative skills & experiences.</div>
                     <p>First of all, thank you for giving me this opportunity to introduce myself.
 
-                        I am Dheeraj from Andhra pradesh.
+                        I am Jagannadh from Andhra pradesh.
                         
-                        Currently, I am pursuing B.TECH in Computer Science Engineering from Gitam insitute of Technology and Sciences, Karnataka.
+                        Currently, I am pursuing B.TECH in Electronics and Communication Engineering from Godavari  insitute of Engineering and  Technology a,Rajahmundry.
                         
-                        I have completed my schooling at Sri chaitanya Techno School, Kurnool with 9.0 percentile in 10th and 7.7 percentile in 12th.
+                        I have completed my schooling at Annapurna High  School,Mandapeta with 10.0 percentile in 10th and 7.9 percentile in 12th.
                         
                         Well, my skills are HTML, CSS, C, and C++ and I like to keep on learning new technologies.
                         
@@ -147,27 +147,26 @@
                             <i class="fas fa-user"></i>
                             <div class="info">
                                 <div class="head">Name</div>
-                                <div class="sub-title">Kota Venkata Shiva Dheeraj</div>
+                                <div class="sub-title">Ulapalli Sri Puri jagannadh</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Address</div>
-                                <div class="sub-title">Kadapa, Andhra Pradesh</div>
+                                <div class="sub-title">Rajahmundry,Andhra Pradesh</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">Kotashivadheeraj2508
-                                    @gmail.com</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="column right">
+                                <div class="sub-title">jagannadhulapalli@gmail.com</div>
+      </div>
+      </div>
+      </div>
+      </div>
+      <div class="column right">
                     <div class="text">Contact me</div>
                     <form action="#">
                         <div class="fields">
